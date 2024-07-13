@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Sales database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240711180108_addcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240711180108_addcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240711164658_salesdatabase.models.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240711164658_salesdatabase.models.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240712132506_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240712132506_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240712132204_producaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240712132204_producaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240712124050_addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240712124050_addsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240712134133_convertdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240712134133_convertdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240712131745_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240712131745_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|e:\\sales database\\migrations\\20240711164658_salesdatabase.models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67446FD0-B7CA-4B6C-9B5F-E2F6335FF574}|Sales database.csproj|solutionrelative:migrations\\20240711164658_salesdatabase.models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Sales database\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240711180108_Addcustomers.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240711180108_Addcustomers.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711180108_Addcustomers.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240711180108_Addcustomers.cs",
+              "RelativeToolTip": "Migrations\\20240711180108_Addcustomers.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:14:53.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240712132204_ProducAddColumnDescription.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240712132204_ProducAddColumnDescription.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240712132204_ProducAddColumnDescription.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240712132204_ProducAddColumnDescription.cs",
+              "RelativeToolTip": "Migrations\\20240712132204_ProducAddColumnDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:22:04.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "E:\\Sales database\\product.cs",
+              "RelativeDocumentMoniker": "product.cs",
+              "ToolTip": "E:\\Sales database\\product.cs",
+              "RelativeToolTip": "product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:49:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customer.cs",
+              "DocumentMoniker": "E:\\Sales database\\customer.cs",
+              "RelativeDocumentMoniker": "customer.cs",
+              "ToolTip": "E:\\Sales database\\customer.cs",
+              "RelativeToolTip": "customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:12:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240712124050_Addsales.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240712124050_Addsales.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240712124050_Addsales.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240712124050_Addsales.cs",
+              "RelativeToolTip": "Migrations\\20240712124050_Addsales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:40:50.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240712132506_ProductsAddColumnDescription.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240712132506_ProductsAddColumnDescription.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240712132506_ProductsAddColumnDescription.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240712132506_ProductsAddColumnDescription.cs",
+              "RelativeToolTip": "Migrations\\20240712132506_ProductsAddColumnDescription.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:25:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240711164658_salesdatabase.models.Designer.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240711164658_salesdatabase.models.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711164658_salesdatabase.models.Designer.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240711164658_salesdatabase.models.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240711164658_salesdatabase.models.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:54:42.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240712134133_convertdatatype.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240712134133_convertdatatype.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240712134133_convertdatatype.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240712134133_convertdatatype.cs",
+              "RelativeToolTip": "Migrations\\20240712134133_convertdatatype.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:41:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sale.cs",
+              "DocumentMoniker": "E:\\Sales database\\sale.cs",
+              "RelativeDocumentMoniker": "sale.cs",
+              "ToolTip": "E:\\Sales database\\sale.cs",
+              "RelativeToolTip": "sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:36:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240712131745_intial.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240712131745_intial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240712131745_intial.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240712131745_intial.cs",
+              "RelativeToolTip": "Migrations\\20240712131745_intial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:17:45.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240711164658_salesdatabase.models.cs",
+              "DocumentMoniker": "E:\\Sales database\\Migrations\\20240711164658_salesdatabase.models.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240711164658_salesdatabase.models.cs",
+              "ToolTip": "E:\\Sales database\\Migrations\\20240711164658_salesdatabase.models.cs",
+              "RelativeToolTip": "Migrations\\20240711164658_salesdatabase.models.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:14:39.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Sales database\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationDbContext.cs",
+              "ToolTip": "E:\\Sales database\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:14:30.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
